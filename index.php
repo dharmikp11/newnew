@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Hello! 2</h1>
-    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam, odio.</p>
+    <p>Lorem ipsgdfgvcvum dolor sit, amet consectetur adipisicing elit. Quibusdam, odio.</p>
+    <h6>Hello, this is h6 tag</h6>
 </body>
 </html>
